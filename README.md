@@ -6,6 +6,7 @@
 <img width="1484" alt="image" src="https://github.com/jinghan99/alipan_auto_sign/assets/19263245/69d917f8-809a-40c2-93b9-066818fe3923">
 2023-10-25更新：增加B站直播签到，具体操作请看https://www.xiaoliu.life/p/20231025a
 
+<img width="1006" alt="image" src="https://github.com/jinghan99/alipan_auto_sign/assets/19263245/5bd0d722-8ff9-442d-822f-e0ee6eabd4e6">
 
 相较于昨天的实现，今天下班后加了下`pushplus`微信推送，能够实时了解每天签到的情况方便refresh_token失效的时候我们更换。
 
