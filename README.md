@@ -67,6 +67,7 @@ fork完后到你刚刚fork的仓库创建`repository secret`，具体路径是`S
 
 refresh_token失效的话更新下secret即可。
 
-![11](https://cdn.xiaoliu.life/tc/20231017a/11.webp)
+<img width="1490" alt="image" src="https://github.com/jinghan99/alipan_auto_sign/assets/19263245/9a5fb5f2-129a-42e9-87fe-de87578ffd71">
+
 
 默认是每天早上八点半运行，实际可能会到中午十二点才会运行（之前试过天气推送就会延迟）。
